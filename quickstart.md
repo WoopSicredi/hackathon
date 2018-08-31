@@ -1,25 +1,26 @@
 # Quick Start
 
 ## Repositórios
-https://github.com/
-https://bitbucket.org/
+- https://github.com/
+- https://bitbucket.org/
 
 ## Gerenciador de Tarefas
-https://trello.com/
-https://asana.com/
+- https://trello.com/
+- https://asana.com/
 
 ## Plataforma de desenvolvimento ágil
-https://firebase.google.com/
+- https://firebase.google.com/
 
 ## Bibliotecas do Android / iOS
-https://android-arsenal.com/
-https://awesome-ios.readthedocs.io/en/latest/
+- https://android-arsenal.com/
+- https://awesome-ios.readthedocs.io/en/latest/
 
 ## Icones
-https://www.flaticon.com/
+- https://www.flaticon.com/
 
 ## Design
-http://material.io/
+- http://material.io/
+- https://developer.apple.com/design/human-interface-guidelines/
 
 ## APIS 
 - http://99apis.com/
@@ -27,13 +28,13 @@ http://material.io/
 - http://www.mockapi.io/login
 
 ## Animações
-https://www.lottiefiles.com/
+- https://www.lottiefiles.com/
 
 ## Documentações
-https://developer.android.com/?hl=pt-br
-https://developer.apple.com/
-https://kotlinlang.org/
-https://swift.org/
+- https://developer.android.com/?hl=pt-br
+- https://developer.apple.com/
+- https://kotlinlang.org/
+- https://swift.org/
 
 ## Ajuda
-https://stackoverflow.com/
+- https://stackoverflow.com/
