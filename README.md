@@ -4,6 +4,9 @@
 - Educação financeira: Educacao Financeira.pdf
 - Colaborar para transformar: Colaborar para Transformar.pdf
 
+## Entregas
+- Arquivo descrevendo checkpoint e entregas: Entregas.pdf
+
 ## Detalhes
 
 Uma maratona de programação, na qual estudantes e profissionais das áreas de DESIGN, PROGRAMAÇÃO e MARKETING se reunirão para criar projetos com impacto social positivo através dos pilares de Educação Financeira e Colaborar para Transformar.
