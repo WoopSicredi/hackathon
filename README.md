@@ -1,5 +1,9 @@
 # Hackathon Social Woop Sicredi - 2018
 
+## Materiais
+# Educação financeira: EducacaoFinanceira
+# Colaborar para transformar: ColaborarParaTransformar
+
 ## Detalhes
 
 Uma maratona de programação, na qual estudantes e profissionais das áreas de DESIGN, PROGRAMAÇÃO e MARKETING se reunirão para criar projetos com impacto social positivo através dos pilares de Educação Financeira e Colaborar para Transformar.
