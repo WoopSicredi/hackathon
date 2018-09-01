@@ -5,6 +5,7 @@
 ## Materiais
 - Educação financeira: Educacao Financeira.pdf
 - Colaborar para transformar: Colaborar para Transformar.pdf
+- Links uteis: quickstart
 
 ## Entregas
 - Arquivo descrevendo checkpoint e entregas: Entregas.pdf
