@@ -1,8 +1,8 @@
 # Hackathon Social Woop Sicredi - 2018
 
-## Materiais
-# Educação financeira: EducacaoFinanceira
-# Colaborar para transformar: ColaborarParaTransformar
+# Materiais
+### Educação financeira: EducacaoFinanceira
+### Colaborar para transformar: ColaborarParaTransformar
 
 ## Detalhes
 
