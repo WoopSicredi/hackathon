@@ -1,11 +1,15 @@
 # Hackathon Social Woop Sicredi - 2018
 
+- Abaixo você pode achar o nome dos arquivos dos materiais de cada área, assim como recomendações gerais!
+
 ## Materiais
 - Educação financeira: Educacao Financeira.pdf
 - Colaborar para transformar: Colaborar para Transformar.pdf
 
 ## Entregas
 - Arquivo descrevendo checkpoint e entregas: Entregas.pdf
+- Arquivo para colocar o link do seu git: entregas.md
+- Arquivo com recomendações gerais: Recomendações gerais.pptx
 
 ## Detalhes
 
