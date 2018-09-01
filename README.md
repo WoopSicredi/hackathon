@@ -10,7 +10,7 @@
 ## Entregas
 - Arquivo descrevendo checkpoint e entregas: Entregas.pdf
 - Arquivo para colocar o link do seu git: entregas.md
-- Arquivo com recomendações gerais: Recomendações gerais.pptx
+- Arquivo com recomendações gerais: Recomendações gerais.pdf
 
 ## Detalhes
 
