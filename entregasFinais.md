@@ -6,7 +6,7 @@ Coloque o link do seu repositório abaixo!
 
 ## Educação Financeira:
 
-- Grupo 01
+- Grupo 01 -> https://github.com/SicrediHackathonSocial
 - Grupo 02
 - Grupo 03
 - Grupo 04
