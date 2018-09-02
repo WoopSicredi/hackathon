@@ -9,6 +9,8 @@ Coloque o link do seu repositório abaixo!
 - Grupo 01 -> https://github.com/SicrediHackathonSocial
 - Grupo 02
 - Grupo 03
+- - Froendend: https://github.com/AlanQuadros/financia-mobile.git
+- - Backend: https://github.com/fabiohsalmeida/financia-backend.git
 - Grupo 04
 
 
