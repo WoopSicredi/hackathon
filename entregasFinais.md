@@ -6,7 +6,7 @@ Coloque o link do seu repositório abaixo!
 
 ## Educação Financeira:
 
-- Grupo 01 -> https://github.com/SicrediHackathonSocial
+- Grupo 01: https://github.com/SicrediHackathonSocial
 - Grupo 02
 - Grupo 03
 - - Frontend: https://github.com/AlanQuadros/financia-mobile.git
@@ -21,5 +21,5 @@ Coloque o link do seu repositório abaixo!
 - Grupo 02: Uma Mão
 - - Frontend: https://github.com/douglas-paz/umamao-front
 - - Backend:https://github.com/douglas-paz/umamao-back
-- Grupo 03 --> https://github.com/IntegraApp2018
-- Grupo 04
+- Grupo 03: https://github.com/IntegraApp2018
+- Grupo 04: https://github.com/gabrielweich/youp
