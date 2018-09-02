@@ -9,8 +9,9 @@ Coloque o link do seu repositório abaixo!
 - Grupo 01 -> https://github.com/SicrediHackathonSocial
 - Grupo 02
 - Grupo 03
-- - Froendend: https://github.com/AlanQuadros/financia-mobile.git
+- - Frontend: https://github.com/AlanQuadros/financia-mobile.git
 - - Backend: https://github.com/fabiohsalmeida/financia-backend.git
+- - Marketing: https://github.com/agiglio1912/financia-marketing.git
 - Grupo 04
 
 
@@ -18,7 +19,7 @@ Coloque o link do seu repositório abaixo!
 
 - Grupo 01
 - Grupo 02: Uma Mão
-    - https://github.com/douglas-paz/umamao-front
-    - https://github.com/douglas-paz/umamao-back
+- - Frontend: https://github.com/douglas-paz/umamao-front
+- - Backend:https://github.com/douglas-paz/umamao-back
 - Grupo 03 --> https://github.com/IntegraApp2018
 - Grupo 04
