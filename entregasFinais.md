@@ -15,6 +15,8 @@ Coloque o link do seu repositório abaixo!
 ## Colaborar para Transformar:
 
 - Grupo 01
-- Grupo 02
+- Grupo 02: Uma Mão
+    https://github.com/douglas-paz/umamao-front
+    https://github.com/douglas-paz/umamao-back
 - Grupo 03 --> https://github.com/IntegraApp2018
 - Grupo 04
