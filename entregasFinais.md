@@ -19,7 +19,9 @@ Coloque o link do seu repositório abaixo!
 
 ## Colaborar para Transformar:
 
-- Grupo 01C: Frontend: https://github.com/MateusPasqualini/Cardume e backend: https://github.com/cvrnogueira/backend-cardume-2
+- Grupo 01: 
+- - Frontend: https://github.com/MateusPasqualini/Cardume
+- - Backend: https://github.com/cvrnogueira/backend-cardume-2
 - Grupo 02: Uma Mão
 - - Frontend: https://github.com/douglas-paz/umamao-front
 - - Backend:https://github.com/douglas-paz/umamao-back
