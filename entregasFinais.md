@@ -12,7 +12,9 @@ Coloque o link do seu repositório abaixo!
 - - Frontend: https://github.com/AlanQuadros/financia-mobile.git
 - - Backend: https://github.com/fabiohsalmeida/financia-backend.git
 - - Marketing: https://github.com/agiglio1912/financia-marketing.git
-- Grupo 04
+- Grupo 04: 
+- - Frontend https://github.com/vladsonsilva/julius
+- - Backend https://github.com/vladsonsilva/juliusapp-backend
 
 
 ## Colaborar para Transformar:
