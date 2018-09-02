@@ -13,8 +13,8 @@ Coloque o link do seu repositório abaixo!
 - - Backend: https://github.com/fabiohsalmeida/financia-backend.git
 - - Marketing: https://github.com/agiglio1912/financia-marketing.git
 - Grupo 04: 
-      Front -> https://github.com/vladsonsilva/julius
-      Back ->  https://github.com/vladsonsilva/juliusapp-backend
+- -Frontend https://github.com/vladsonsilva/julius
+- - Backend https://github.com/vladsonsilva/juliusapp-backend
 
 
 ## Colaborar para Transformar:
