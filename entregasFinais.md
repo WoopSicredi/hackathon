@@ -7,12 +7,12 @@ Coloque o link do seu repositório abaixo!
 ## Educação Financeira:
 
 - Grupo 01: https://github.com/SicrediHackathonSocial
-- Grupo 02
+- Grupo 02 https://github.com/davibusanello/hackathon-WoopSicredi-justo-chatbot
 - Grupo 03
 - - Frontend: https://github.com/AlanQuadros/financia-mobile.git
 - - Backend: https://github.com/fabiohsalmeida/financia-backend.git
 - - Marketing: https://github.com/agiglio1912/financia-marketing.git
-- Grupo 04: 
+- Grupo 04:
 - - Frontend https://github.com/vladsonsilva/julius
 - - Backend https://github.com/vladsonsilva/juliusapp-backend
 
